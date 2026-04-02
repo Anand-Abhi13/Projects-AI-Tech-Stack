@@ -1,0 +1,26 @@
+LLM Engineering (tech)
+
+LLM/LLMs; NLP; prompt engineering; pretraining; finetuning; alignment; RAG (retrieval‑augmented); embeddings; vector database/storage;
+Transformers; PyTorch; DeepSpeed; TRL; OpenAI; HuggingFace; Claude; Gemini; Mistral; Llama2; evaluation; guardrails; Governance; ReAct; 
+semantic cache; long‑term memory; model monitoring; FAISS; Pinecone; Weaviate
+
+Agentic AI (tech)
+
+Agentic systems; agents; multi‑agent orchestration; tool calling/tooling; tool registries; state machines; routing; memory; autonomy; MCP;
+LangChain; AutoGPT; CrewAI; Semantic Kernel; PydanticAI; ReAct
+
+System Design (tech)
+
+Distributed systems; microservices; event‑driven (Kafka); REST/RESTful; gRPC; API design; scalability; reliability; performance; monitoring;
+debugging; security; privacy; compliance; auditability; SQL/RDBMS; NoSQL; data modelling; Kubernetes/OpenShift; Docker; AWS/GCP/Azure/IBM Cloud; 
+Vertex AI; BigQuery; Cloud Functions; Serverless; GitOps; MLOps
+
+Core Programming (tech)
+
+Python; Go; Java; TypeScript; Node.js; FastAPI; schema validation/Pydantic; unit/integration tests; code reviews; troubleshooting; 
+GitHub Copilot
+
+Soft skills (all categories)
+
+Communication; Collaboration; Cross‑functional teamwork; Mentoring/Leadership; Stakeholder management; Problem solving; Ownership & autonomy;
+Curiosity; Customer mindset; Adaptability; Proactiveness; Willingness to learn & growth mindset; Documentation
